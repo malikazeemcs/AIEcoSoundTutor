@@ -1,6 +1,8 @@
 Dataset(s):
-Insect-32: https://zenodo.org/records/7072196/files/Orthoptera.zip
-Iris Dataset: Https://gist.github.com/curran/a08a1080b88344b0c8a7
+Insect-32: 
+https://zenodo.org/records/7072196/files/Orthoptera.zip
+Iris Dataset:
+Https://gist.github.com/curran/a08a1080b88344b0c8a7
 
 Citation:
 Azeem, M.; Nguyen, H. D.; Minghim, R. Sound-AI: a pedagogical tool for exploring AI in audio and bioacoustic research. EAAI-26 (2026).
